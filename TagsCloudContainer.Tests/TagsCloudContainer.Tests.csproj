@@ -19,7 +19,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\TagsCloudVisualization\TagsCloudContainer.csproj" />
+    <ProjectReference Include="..\TagsCloudContainer\TagsCloudContainer.csproj" />
   </ItemGroup>
 
 </Project>
